@@ -281,6 +281,9 @@ public:
     VK_LEG_LO,
     VK_LEG_HI,
 
+    VK_TINYRISCV_LO,
+    VK_TINYRISCV_HI,
+
     VK_COFF_IMGREL32, // symbol@imgrel (image-relative)
 
     VK_Hexagon_PCREL,

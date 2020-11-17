@@ -217,6 +217,7 @@ set(LLVM_ALL_TARGETS
   X86
   XCore
   LEG
+  TinyRISCV
   )
 
 # List of targets with JIT support:

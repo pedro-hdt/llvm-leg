@@ -310,6 +310,7 @@ enum {
   EM_NORC          = 218, // Nanoradio Optimized RISC
   EM_CSR_KALIMBA   = 219, // CSR Kalimba architecture family
   EM_LEG           = 220,
+  EM_TINYRISCV     = 221, // ELF target machine for TinyRISCV
   EM_AMDGPU        = 224, // AMD GPU architecture
 
   // A request has been made to the maintainer of the official registry for
